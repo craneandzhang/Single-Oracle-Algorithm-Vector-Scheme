@@ -1,1 +1,1 @@
-# Single-Oracle-Algorithm-Vector-Scheme
+# protocol of single- value argument
